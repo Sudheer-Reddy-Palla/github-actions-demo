@@ -1,3 +1,5 @@
 module github-actions-demo
 
-go 1.19
+go 1.12
+
+
